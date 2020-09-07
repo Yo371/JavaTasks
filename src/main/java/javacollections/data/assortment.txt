@@ -1,0 +1,6 @@
+ChocolateCandy KitKat 32 50
+ChocolateCandy Spartak 30 25
+ChocolateCandy Snickers 28 70
+CaramelCandy Dushes 25 15
+ChocolateCandy Twix 20 55
+SweetMeatCandy Barbaris 13 10
